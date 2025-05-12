@@ -26,6 +26,7 @@ Currently pursuing B.Tech with a strong interest in full-stack development. Acti
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tomar1907/Tomar1907/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tomar1907/Tomar1907/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Tomar1907/Tomar1907/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Tomar1907/Tomar1907/output/github-snake.svg" />
 </picture>
+
 
